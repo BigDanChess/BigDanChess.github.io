@@ -1,0 +1,18 @@
+canvas{
+	border: solid;
+	background-color: white;
+}
+
+body{
+	background-color: rgb(25,25,25);
+}
+img.imagen{ 
+	display: none;
+}
+
+.score, .p{
+	color: white;
+}
+.boton{
+	display: none;
+}
